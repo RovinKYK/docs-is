@@ -6,7 +6,7 @@ The consent management guide provides instructions for configuring and managing 
 ## Prerequisites
 
 !!! note
-    These features are available from **update level 7.3.0.5** onwards. See the instructions on [updating WSO2 products](https://updates.docs.wso2.com/en/latest/).
+    These features are available from **update level 7.3.0.12** onwards. See the instructions on [updating WSO2 products](https://updates.docs.wso2.com/en/latest/).
 
 Add the following to your `deployment.toml` to enable the consent management v2 API and its related features:
 

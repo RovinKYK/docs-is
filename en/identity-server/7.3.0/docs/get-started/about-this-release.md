@@ -253,7 +253,7 @@ Learn more about [optimizing JWT access token persistence]({{base_path}}/deploy/
 ### Consent and preference management
 
 !!! note
-    This feature is available from **update level 7.3.0.5** onwards. See the instructions on [updating WSO2 products](https://updates.docs.wso2.com/en/latest/).
+    This feature is available from **update level 7.3.0.12** onwards. See the instructions on [updating WSO2 products](https://updates.docs.wso2.com/en/latest/).
 
 WSO2 Identity Server introduces a simplified consent management v2 API and two new consent capabilities built on top of it.
 
