@@ -371,16 +371,17 @@ To align with these standards and Java 21 defaults, {{ product_name }} has depre
 **Recommended action**: Upgrade to TLS 1.3 and use it for all connections. It provides stronger security, improved performance, and aligns with current industry standards and platform defaults.
 
 ### Organization User Share REST API v1
+
 The [Organization User Share REST API v1]({{base_path}}/apis/organization-user-share-rest-api/) has been deprecated and replaced by v2. The v1 API will no longer receive enhancements or non-critical fixes and may be removed in a future release.
 
 **Recommended action**:
 Migrate to the [Organization User Share REST API v2]({{base_path}}/apis/organization-user-share-v2-rest-api/) to benefit from improved request and response structures, enhanced validation, and ongoing support.
 
 ### Notification Sender REST API v1
+
 The [Notification Sender REST API v1]({{base_path}}/apis/notification-sender-rest-api/) has been deprecated and replaced by the v2 API that provides better scalability, enhanced security, and a simplified configuration model for notification management. The v1 API will no longer receive new enhancements or feature updates and may be removed in a future release.
 
 **Recommended action**: Migrate to the [Notification Sender REST API v2]({{base_path}}/apis/notification-sender-v2-rest-api/) to benefit from improved API design, enhanced extensibility, and ongoing support.
-
 
 ## Fixed issues
 
