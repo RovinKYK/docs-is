@@ -303,6 +303,7 @@ plugins:
 
 exclude_docs: |
   /get-started/hello-world.md
+  /tutorials/register-multiple-devices-for-push-notifications.md
 
 not_in_nav: |
   /page-not-found.md
